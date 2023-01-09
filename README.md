@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Using Homeassistant on a VM Virtualbox.
+Inkluding Addons: Raspberrymatic, ... 
+
+Setup i usualy use in Homekit.
+
+
 <!--
 **meistermolli/meistermolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
